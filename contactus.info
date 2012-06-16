@@ -1,5 +1,0 @@
-; $Id$
-name = contactus
-description = contact us info...
-package = page creation wizard
-core = 6.x
